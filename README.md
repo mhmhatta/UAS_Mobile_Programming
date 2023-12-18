@@ -2,8 +2,8 @@
 Projek ini adalah implementasi UI design menggunakan Flutter. UI design tersebut diimplementasikan dengan mengikuti spesifikasi yang diberikan. Projek ini dibuat sebagai bagian dari Ujian Akhir Semester (UAS) dalam Mata Kuliah Mobile Programming (TIF3106).
 
 ### Result :
-<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/3fb5227c-127b-4b81-ae15-1fe9c2a2ed8f" width="300">
-<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/04e786f9-e281-407f-8637-3ff0f7976584" width="300">
+<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/a8aef487-4863-447e-abcd-4c07be4c4a54" width="300">
+<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/1f6b9f10-a804-49aa-9531-ac7a05f155cc" width="300">
 
 ### Menjalankan Projek
 1. Pastikan Anda telah menginstal Flutter dan Dart di sistem Anda.
@@ -11,13 +11,13 @@ Projek ini adalah implementasi UI design menggunakan Flutter. UI design tersebut
 3. Buka terminal dan arahkan ke direktori projek.
 4. Jalankan perintah `flutter run` untuk memulai aplikasi.
 
-## Sertifikat dan Badge 
-<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/37b18b07-d598-4050-a47f-3b111d04521f" width="300">
-<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/daa9bef5-19e0-46f1-b5cc-ccb43227418f" width="300">
-<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/9ff7b36e-f389-4ad1-ab28-da7b02e6f84b" width="300">
+## Sertifikat dan Badge
+<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/16c48ffc-5f21-4c28-9552-0e1e49ffa74a" width="300">
+<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/635a79b4-4a67-4c59-937b-cadc3776ee8c" width="300">
+<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/cc74a08b-61ea-4e59-9060-03f7779535f6" width="300">
 
-Note ; Saya sudah menyelesaikan seluruh path namun entah mengapa jumlah badge tidak sesuai dengan yang lain
+Note: Saya sudah menyelesaikan seluruh path, namun entah mengapa jumlah badge tidak sesuai dengan yang lain
 
-<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/a0d54114-4c16-4719-b076-0409c8495376" width="500">
+<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/a0d54114-4c16-4719-b076-0409c8495376" width="300">
 
 Terimakasih!🙏😊
