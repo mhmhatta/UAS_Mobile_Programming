@@ -18,6 +18,6 @@ Projek ini adalah implementasi UI design menggunakan Flutter. UI design tersebut
 
 Note: Saya sudah menyelesaikan seluruh path, namun entah mengapa jumlah badge tidak sesuai dengan yang lain
 
-<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/a0d54114-4c16-4719-b076-0409c8495376" width="300">
+<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/82cf6d5b-fee3-4423-857f-8a3600499f20" width="300">
 
 Terimakasih!🙏😊
