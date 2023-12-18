@@ -2,8 +2,8 @@
 Projek ini adalah implementasi UI design menggunakan Flutter. UI design tersebut diimplementasikan dengan mengikuti spesifikasi yang diberikan. Projek ini dibuat sebagai bagian dari Ujian Akhir Semester (UAS) dalam Mata Kuliah Mobile Programming (TIF3106).
 
 ### Result :
-<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/a8aef487-4863-447e-abcd-4c07be4c4a54" width="300">
 <img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/1f6b9f10-a804-49aa-9531-ac7a05f155cc" width="300">
+<img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/a8aef487-4863-447e-abcd-4c07be4c4a54" width="300">
 
 ### Menjalankan Projek
 1. Pastikan Anda telah menginstal Flutter dan Dart di sistem Anda.
