@@ -9,7 +9,7 @@ Projek ini adalah implementasi UI design menggunakan Flutter. UI design tersebut
 1. Pastikan Anda telah menginstal Flutter dan Dart di sistem Anda.
 2. Clone repositori ini.
 3. Buka terminal dan arahkan ke direktori projek.
-4. Jalankan perintah `flutter run` untuk memulai aplikasi.
+4. Jalankan perintah `flutter pub get`, lalu `flutter run` untuk memulai aplikasi.
 
 ## Sertifikat dan Badge
 <img src="https://github.com/mhmhatta/UAS_Mobile_Programming/assets/91374495/16c48ffc-5f21-4c28-9552-0e1e49ffa74a" width="300">
